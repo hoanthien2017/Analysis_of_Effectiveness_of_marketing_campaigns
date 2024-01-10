@@ -1,4 +1,4 @@
-# Effectiveness of marketing campaigns
+# Analysis of the Effectiveness of Marketing Campaigns
 ## Introduction
 ### Company overview
 The train is the retail dataset of a superstore that offers a wide category of products such as furniture, technology, and office supplies to customers.
