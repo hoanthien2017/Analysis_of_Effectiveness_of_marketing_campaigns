@@ -34,3 +34,37 @@ create table products (
         "product_id")
 );
 
+/*
+ Get a comprehensive view of store revenue. This query gathers 
+ data across various aspects of each sale, such as the total items, 
+ total revenues and combines it with customer information. The aim 
+ is to get a deeper insight into revenue trends in multiple directions,
+ such as over time, by region, and by customer segment 
+*/
+
+select
+		o.order_date
+	,	o.order_id
+	,	c.customer_name
+	,	c.segment
+	,	o.state
+	,	o.region
+	,	count(p.sub_category) as total_items  -- Counts the number of items per order
+	,	sum(o.sales) as total_revenues  --  Sum of sales per order
+from
+ orders o
+    left join customers c 
+	on o.customer_id = c.customer_id
+    left join products p 
+	on o.product_id = p.product_id
+group by
+		o.order_date
+	,	o.order_id
+	,	c.customer_name
+	,	c.segment
+	,	o.state
+	,	o.region
+order by
+		o.order_date
+;
+!ỉmage[https://github.com/hoanthien2017/effectiveness_of_marketing_campaign/blob/3767fc313082cd1a2ce5f4ca985ad14096c16991/hinh%203.png]
