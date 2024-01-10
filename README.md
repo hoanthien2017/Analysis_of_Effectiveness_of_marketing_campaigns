@@ -26,7 +26,6 @@ The project is conducted to analyze the effectiveness of marketing campaigns fro
 - Yearly revenue share by product category bar chart: the bar chart breaks out the percentage of product revenues each year. It is useful to have a deeper understanding of increasing or decreasing market needs for each category. In other words, this shows how adaptable the marketing and product strategies are toward market mainstream and customer preferences.
 
 ### dashboard:
-View dynamic [dashboard](https://public.tableau.com/app/profile/thien.nguyen1439/viz/pj1_17039365354620/Dashboard2)
 ![image](https://github.com/hoanthien2017/effectiveness_of_marketing_campaign/blob/78103f648c7f4330781e1c06d646babd9c5574ec/hinh%202.png)
 ![image](https://github.com/hoanthien2017/effectiveness_of_marketing_campaign/blob/78103f648c7f4330781e1c06d646babd9c5574ec/hinh1%20.png)
 
