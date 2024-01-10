@@ -1,6 +1,5 @@
--- Create tables and import csv files  
+--Create tables and import csv files  
 
-```sql  
 create table orders (
     	row_id int
     ,	order_id varchar(50)
@@ -18,9 +17,7 @@ create table orders (
     ,	constraint "pk_orders" primary key (
         "row_id")
 );
-````
 
-```sql  
 create table customers (
     	customer_id varchar(50)
     ,	customer_name varchar(50)
@@ -28,9 +25,7 @@ create table customers (
     ,	constraint "pk_customers" primary key (
         "customer_id")
 );
-````
-
-```sql  
+ 
 create table products (
     	product_id varchar(50)
     ,	category varchar(20)
@@ -38,4 +33,4 @@ create table products (
     ,	constraint "pk_products" primary key (
         "product_id")
 );
-````
+
