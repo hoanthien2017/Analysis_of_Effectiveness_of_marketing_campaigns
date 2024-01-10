@@ -1,6 +1,6 @@
-# effectiveness_of_marketing_campaign
+# effectiveness of marketing campaign
 ## Introduction
-### company overview
+### Company overview
 The train is the retail dataset of a superstore that offers a wide category of products such as furniture, technology, and office supplies to customers.
 ### Objective
 The project is conducted to analyze the effectiveness of marketing campaigns from selected data and give suggestions. Building the store sale summary dashboard and product performance summary dashboard deliver outcomes of the marketing campaigns by three terms: sale trend, customer preferences, and product sales by category.
@@ -27,6 +27,8 @@ The project is conducted to analyze the effectiveness of marketing campaigns fro
 
 ### dashboard:
 View dynamic [dashboard](https://public.tableau.com/app/profile/thien.nguyen1439/viz/pj1_17039365354620/Dashboard2)
+![image](https://github.com/hoanthien2017/effectiveness_of_marketing_campaign/blob/78103f648c7f4330781e1c06d646babd9c5574ec/hinh%202.png)
+![image](https://github.com/hoanthien2017/effectiveness_of_marketing_campaign/blob/78103f648c7f4330781e1c06d646babd9c5574ec/hinh1%20.png)
 
 ## Executive Summary
 ### Conclusion
