@@ -22,6 +22,7 @@ The project is conducted to analyze the effectiveness of marketing campaigns fro
 - State-specific revenue distribution map: the map delivers more sophisticated total sale data by smaller areas. It is crucial to indicate where the marketing strategy is weak and strong. Also, they are valuable for analyzing the change in total sales from regional areas to states.
 - Pie chart: it shows a quick visualization of revenue by customer segments in total. This is at great avail to highlight biggest and smallest customer range targets.
 - Bar chart: the bar chart offers data on segment growth and decline year to year, which is essential for trend analysis. Besides that, it also indicates how well marketing targeting methods have been toward each customer group over the years.
+
 **Product performance summary dashboard**
 - Yearly product category sales bar chart and text table: they visualize annual sales trends by category, shifts in consumer preference, and market change. Sophisticatedly, both of them provide sales growth and decline of each category over 4 years, pointing to the bestseller and worst product. As a result, these insights are involved in the success of marketing targeting as well as research and development campaigns.
 - Total sales share by product category pie chart: the chart gives an overview visualization of sales distribution by product categories over four years. It underlines the top and bottom category by revenue, which is the principal for addressing marketing focus and product development projects. 
