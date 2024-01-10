@@ -1,4 +1,4 @@
-# effectiveness of marketing campaign
+# Effectiveness of marketing campaigns
 ## Introduction
 ### Company overview
 The train is the retail dataset of a superstore that offers a wide category of products such as furniture, technology, and office supplies to customers.
@@ -6,11 +6,11 @@ The train is the retail dataset of a superstore that offers a wide category of p
 The project is conducted to analyze the effectiveness of marketing campaigns from selected data and give suggestions. Building the store sale summary dashboard and product performance summary dashboard deliver outcomes of the marketing campaigns by three terms: sale trend, customer preferences, and product sales by category.
 
 ## Project Analysis
-### Normalization and ERD
-(https://github.com/hoanthien2017/effectiveness_of_marketing_campaign/blob/693016bd5d6e94e9e57d2f0012b424dce6c12059/Normalization%20and%20ERD.docx)
+### Data preparation
+(https://github.com/hoanthien2017/effectiveness_of_marketing_campaign/blob/dff34775eaf9ec715b06c9ee231a438ba6317bcc/Normalization_and_ERD.md)
 ### Joininng data by sql
-(https://github.com/hoanthien2017/effectiveness_of_marketing_campaign/blob/693016bd5d6e94e9e57d2f0012b424dce6c12059/my%20queries.docx)
-### creating Dashboards by tableau
+(https://github.com/hoanthien2017/effectiveness_of_marketing_campaign/blob/1c526207cea702b67e811a6de7cc34a0287139d8/my_queries.md)
+### Creating Dashboards by tableau
 **Store revenue summary dashboard**
 - Fundamental statistic metrics: total revenue and total order values give overview outcomes of marketing and sale of the store in the period of 4 years. 
 - Specific statistics: the average revenue per order, the average order sold per customer, and the average item sold per order values are vital to analyzing the effectiveness of promotion campaigns, customer purchase behavior, and customer loyalty. 
@@ -25,9 +25,14 @@ The project is conducted to analyze the effectiveness of marketing campaigns fro
 - Total sales share by product category pie chart: the chart gives an overview visualization of sales distribution by product categories over four years. It underlines the top and bottom category by revenue, which is the principal for addressing marketing focus and product development projects. 
 - Yearly revenue share by product category bar chart: the bar chart breaks out the percentage of product revenues each year. It is useful to have a deeper understanding of increasing or decreasing market needs for each category. In other words, this shows how adaptable the marketing and product strategies are toward market mainstream and customer preferences.
 
-### dashboard:
+### Dashboard:
+View dynamic   [dashboard](https://public.tableau.com/views/pj1_17039365354620/Dashboard1_1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+![image](https://github.com/hoanthien2017/effectiveness_of_marketing_campaign/blob/3010ae7eee6222bc7b45e947b8687ec93bffa7e3/hinh%2010.png)
+
+View dynamic   [dashboard](https://public.tableau.com/views/pj1_17039365354620/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 ![image](https://github.com/hoanthien2017/effectiveness_of_marketing_campaign/blob/78103f648c7f4330781e1c06d646babd9c5574ec/hinh%202.png)
-![image](https://github.com/hoanthien2017/effectiveness_of_marketing_campaign/blob/78103f648c7f4330781e1c06d646babd9c5574ec/hinh1%20.png)
 
 ## Executive Summary
 ### Conclusion
