@@ -18,7 +18,10 @@ The project is conducted to analyze the effectiveness of marketing campaigns fro
 **Product performance summary dashboard**
 - Yearly product category sales bar chart and text table: they visualize annual sales trends by category, shifts in consumer preference, and market change. Sophisticatedly, both of them provide sales growth and decline of each category over 4 years, pointing to the bestseller and worst product. As a result, these insights are involved in the success of marketing targeting as well as research and development campaigns.
 - Total sales share by product category pie chart: the chart gives an overview visualization of sales distribution by product categories over four years. It underlines the top and bottom category by revenue, which is the principal for addressing marketing focus and product development projects. 
-- Yearly revenue share by product category bar chart: the bar chart breaks out the percentage of product revenues each year. It is useful to have a deeper understanding of increasing or decreasing market needs for each category. In other words, this shows how adaptable the marketing and product strategies are toward market mainstream and customer preferences. 
+- Yearly revenue share by product category bar chart: the bar chart breaks out the percentage of product revenues each year. It is useful to have a deeper understanding of increasing or decreasing market needs for each category. In other words, this shows how adaptable the marketing and product strategies are toward market mainstream and customer preferences.
+
+### dashboard:
+View dynamic [dashboard](https://public.tableau.com/app/profile/thien.nguyen1439/viz/pj1_17039365354620/Dashboard2)
 
 ## Executive Summary
 ### Conclusion
