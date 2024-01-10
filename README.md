@@ -8,7 +8,7 @@ The project is conducted to analyze the effectiveness of marketing campaigns fro
 ## Project Analysis
 ### Data preparation
 (https://github.com/hoanthien2017/effectiveness_of_marketing_campaign/blob/04f88f2ec10dc320ff26c35ef2a82ea825c733c8/Normalization_and_ERD.md)
-### Joininng data by sql
+### Joining data by sql
 (https://github.com/hoanthien2017/effectiveness_of_marketing_campaign/blob/1c526207cea702b67e811a6de7cc34a0287139d8/my_queries.md)
 ### Creating Dashboards by tableau
 **Store revenue summary dashboard**
