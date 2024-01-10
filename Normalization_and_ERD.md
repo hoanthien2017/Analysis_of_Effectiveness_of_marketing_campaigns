@@ -1,6 +1,6 @@
 # Data preparation
 
-- Changing the formal date from ``dd/mm/yyyy`` to ``yyyy-mm-dd`` to be consistent to the PostgreSQL database.
+- Changing the date format from ``dd/mm/yyyy`` to ``yyyy-mm-dd`` to be consistent to the PostgreSQL database.
 
 ![image](https://github.com/hoanthien2017/effectiveness_of_marketing_campaign/blob/748bb49091b12df033abb046f6eb6d292561917d/hinh%205.png)
 
