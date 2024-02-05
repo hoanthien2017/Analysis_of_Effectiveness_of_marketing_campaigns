@@ -4,13 +4,7 @@
 The train is the retail dataset of a superstore that offers a wide category of products such as furniture, technology, and office supplies to customers.
 ### Objective
 The project is conducted to analyze the effectiveness of marketing campaigns from selected data and give suggestions. Building the store sale summary dashboard and product performance summary dashboard deliver outcomes of the marketing campaigns by three terms: sale trend, customer preferences, and product sales by category.
-### Dataset
-(https://github.com/hoanthien2017/Analysis_of_Effectiveness_of_marketing_campaigns/blob/c0ef3804b36cfca59bffd75d9db54c60451ebc44/train.csv)
 ## Project Analysis
-### Data preparation
-(https://github.com/hoanthien2017/Analysis_of_Effectiveness_of_marketing_campaigns/blob/8f8040e9e54c7271a275760d5597a497e4e69460/Normalization_and_ERD.md)
-### Joining data by sql
-(https://github.com/hoanthien2017/effectiveness_of_marketing_campaign/blob/1c526207cea702b67e811a6de7cc34a0287139d8/my_queries.md)
 ### Creating Dashboards by tableau
 **Store revenue summary dashboard**
 - Fundamental statistic metrics: total revenue and total order values give overview outcomes of marketing and sale of the store in the period of 4 years. 
