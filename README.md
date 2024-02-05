@@ -3,7 +3,7 @@
 ### Company overview
 The train is the retail dataset of a superstore that offers a wide category of products such as furniture, technology, and office supplies to customers.
 ### Objective
-The project is conducted to analyze the effectiveness of marketing campaigns from selected data and give suggestions. Building the store sale summary dashboard and product performance summary dashboard deliver outcomes of the marketing campaigns by three terms: sale trend, customer preferences, and product sales by category.
+The project is conducted to analyze the sales performance from selected data and give suggestions. Building the store sale summary dashboard and product performance summary dashboard deliver outcomes by three terms: sale trend, customer preferences, and product sales by category.
 ## Project Analysis
 ### Creating Dashboards by tableau
 **Store revenue summary dashboard**
@@ -12,12 +12,12 @@ The project is conducted to analyze the effectiveness of marketing campaigns fro
 - Monthly revenue tables: the tables deliver customer purchasing trends for a short-term period. Likewise, it also shows the impact of marketing campaigns on sales during seasons of the last year
 - Yearly revenue tables: they provide a long-term evaluation of marketing strategy performance. To be more specific, it involves marketing initiatives, product positioning, or shifts in customer behavior. 
 - Regional revenue distribution map: the map shows total revenue changes by broad geographical areas like east, west, south, and north. In addition, it can be useful to analyze the effectiveness of marketing strategies by wide regions.
-- State-specific revenue distribution map: the map delivers more sophisticated total sale data by smaller areas. It is crucial to indicate where the marketing strategy is weak and strong. Also, they are valuable for analyzing the change in total sales from regional areas to states.
+- State-specific revenue distribution map: the map delivers more sophisticated total sale data by smaller areas. It is crucial to indicate where the sales strategy is weak and strong. Also, they are valuable for analyzing the change in total sales from regional areas to states.
 - Pie chart: it shows a quick visualization of revenue by customer segments in total. This is at great avail to highlight biggest and smallest customer range targets.
-- Bar chart: the bar chart offers data on segment growth and decline year to year, which is essential for trend analysis. Besides that, it also indicates how well marketing targeting methods have been toward each customer group over the years.
+- Bar chart: the bar chart offers data on segment growth and decline year to year, which is essential for sales trend analysis. Besides that, it also indicates how well marketing targeting methods have been toward each customer group over the years.
 
 **Product performance summary dashboard**
-- Yearly product category sales bar chart and text table: they visualize annual sales trends by category, shifts in consumer preference, and market change. Sophisticatedly, both of them provide sales growth and decline of each category over 4 years, pointing to the bestseller and worst product. As a result, these insights are involved in the success of marketing targeting as well as research and development campaigns.
+- Yearly product category sales bar chart and text table: they visualize annual sales trends by category, shifts in consumer preference, and market change. Sophisticatedly, both of them provide sales growth and decline of each category over 4 years, pointing to the bestseller and worst product. As a result, these insights are involved in the success of research and development campaigns.
 - Total sales share by product category pie chart: the chart gives an overview visualization of sales distribution by product categories over four years. It underlines the top and bottom category by revenue, which is the principal for addressing marketing focus and product development projects. 
 - Yearly revenue share by product category bar chart: the bar chart breaks out the percentage of product revenues each year. It is useful to have a deeper understanding of increasing or decreasing market needs for each category. In other words, this shows how adaptable the marketing and product strategies are toward market mainstream and customer preferences.
 
