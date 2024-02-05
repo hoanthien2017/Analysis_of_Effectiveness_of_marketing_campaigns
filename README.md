@@ -30,11 +30,11 @@ The project is conducted to analyze the effectiveness of marketing campaigns fro
 ### Dashboard:
 View dynamic   [dashboard](https://public.tableau.com/views/pj1_17039365354620/Dashboard1_1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-![image](https://github.com/hoanthien2017/effectiveness_of_marketing_campaign/blob/3010ae7eee6222bc7b45e947b8687ec93bffa7e3/hinh%2010.png)
+![image](https://github.com/hoanthien2017/Analysis_of_Effectiveness_of_marketing_campaigns/blob/a74790543d9bfd7396d37fddbfa93da36cbde26b/Dashboard%20%201.png)
 
 View dynamic   [dashboard](https://public.tableau.com/views/pj1_17039365354620/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-![image](https://github.com/hoanthien2017/effectiveness_of_marketing_campaign/blob/78103f648c7f4330781e1c06d646babd9c5574ec/hinh%202.png)
+![image](https://github.com/hoanthien2017/Analysis_of_Effectiveness_of_marketing_campaigns/blob/7e0a2ead8455d3acf486dc229289bfc7ba3e96e9/Dashboard%202%20(1).png)
 
 ## Executive Summary
 ### Conclusion
