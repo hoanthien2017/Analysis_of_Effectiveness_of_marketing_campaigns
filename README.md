@@ -1,4 +1,4 @@
-# Analysis of the Effectiveness of Marketing Campaigns
+# Sales Data Analysis
 ## Introduction
 ### Company overview
 The train is the retail dataset of a superstore that offers a wide category of products such as furniture, technology, and office supplies to customers.
