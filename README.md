@@ -4,8 +4,7 @@
 The train is the retail dataset of a superstore that offers a wide category of products such as furniture, technology, and office supplies to customers.
 ### Objective
 The project is conducted to analyze the Effectiveness of marketing campaigns from selected data and give suggestions. Building the store sale summary dashboard and product performance summary dashboard deliver outcomes by three terms: sale trend, customer preferences, and product sales by category.
-## Project Analysis
-### Creating Dashboards by tableau
+## Description of the data
 **Store revenue summary dashboard**
 - Fundamental statistic metrics: total revenue and total order values give overview outcomes of marketing and sale of the store in the period of 4 years. 
 - Specific statistics: the average revenue per order, the average order sold per customer, and the average item sold per order values are vital to analyzing the effectiveness of promotion campaigns, customer purchase behavior, and customer loyalty. 
@@ -21,7 +20,7 @@ The project is conducted to analyze the Effectiveness of marketing campaigns fro
 - Total sales share by product category pie chart: the chart gives an overview visualization of sales distribution by product categories over four years. It underlines the top and bottom category by revenue, which is the principal for addressing marketing focus and product development projects. 
 - Yearly revenue share by product category bar chart: the bar chart breaks out the percentage of product revenues each year. It is useful to have a deeper understanding of increasing or decreasing market needs for each category. In other words, this shows how adaptable the marketing and product strategies are toward market mainstream and customer preferences.
 
-### Dashboard:
+## Dashboards:
 View dynamic   [dashboard](https://public.tableau.com/views/pj1_17039365354620/Dashboard1_1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ![image](https://github.com/hoanthien2017/Analysis_of_Effectiveness_of_marketing_campaigns/blob/a74790543d9bfd7396d37fddbfa93da36cbde26b/Dashboard%20%201.png)
