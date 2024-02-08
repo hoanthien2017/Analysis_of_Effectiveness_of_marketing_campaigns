@@ -1,9 +1,9 @@
-# Sales Data Analysis
+# Analysis of Effectiveness of marketing campaigns
 ## Introduction
 ### Company overview
 The train is the retail dataset of a superstore that offers a wide category of products such as furniture, technology, and office supplies to customers.
 ### Objective
-The project is conducted to analyze the sales performance from selected data and give suggestions. Building the store sale summary dashboard and product performance summary dashboard deliver outcomes by three terms: sale trend, customer preferences, and product sales by category.
+The project is conducted to analyze the Effectiveness of marketing campaigns from selected data and give suggestions. Building the store sale summary dashboard and product performance summary dashboard deliver outcomes by three terms: sale trend, customer preferences, and product sales by category.
 ## Project Analysis
 ### Creating Dashboards by tableau
 **Store revenue summary dashboard**
